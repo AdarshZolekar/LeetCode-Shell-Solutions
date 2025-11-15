@@ -18,30 +18,6 @@ While working on these problems, I practiced and reinforced:
 
 ---
 
-## Repository Structure
-
-Each problem is stored as a separate script inside the `solutions/` folder:
-
-```
-solutions/
-  ├── valid-phone-numbers.sh
-  ├── transpose-file.sh
-  ├── word-frequency.sh
-  ├── tenth-line.sh
-  └── ...
-```
-
-Each script starts with:
-```bash
-# Problem: <Problem Name>
-# Description: Short explanation of the task
-# Key idea: Main Unix command(s) this problem is about
-
-<solution code>
-```
-
----
-
 ## Example Problems :
 
 ### 1. [Valid Phone Numbers](solutions/valid-phone-numbers.sh)
