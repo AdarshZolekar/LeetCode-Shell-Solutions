@@ -61,18 +61,18 @@ sed -n '10p' file.txt
 
 ## How to Run
 
-Clone the repo:
+Clone the repo :
 ```bash
 git clone https://github.com/AdarshZolekar/Leetcode-Shell-Solutions.git
 cd leetcode-bash-solutions
 ```
 
-Make scripts executable:
+Make scripts executable :
 ```bash
 chmod +x solutions/*.sh
 ```
 
-Run a script:
+Run a script :
 ```bash
 ./solutions/word-frequency.sh
 ```
@@ -89,7 +89,7 @@ This project is open-source under the MIT License.
 
 Contributions are welcome!
 
-- Open an issue for bugs or feature requests
+- Open an issue for bugs or feature requests.
 
 - Submit a pull request for improvements.
 
