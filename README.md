@@ -6,7 +6,7 @@ This repo contains mainly **Bash** problems from **Leetcode**.
 
 ---
 
-## What I Learned :
+## What I Learned : 
 
 While working on these problems, I practiced and reinforced:
 - **Unix pipes (`|`)** → chaining commands together
